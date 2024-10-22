@@ -3,14 +3,14 @@
 This project contains a database of crimes in Buffalo, NY, spanning from 2020 to 2021. The goal is to enable detailed analysis of crime patterns in the city, allowing law enforcement agencies and other stakeholders to use a web-based system for accessing and analyzing crime data.
 
 ### Table of Contents
-Installation
-Usage
-Data Pre-process and Augmentation
-Database Structure
-Queries
-Bonus Task
-Contribution
-References
+1. Installation
+2. Usage
+3. Data Pre-process and Augmentation
+4. Database Structure
+5. Queries
+6. Bonus Task
+7. Contribution
+8. References
 
 ### Installation
 The project requires the following tools and libraries for data cleaning, database management, and web interface:
@@ -20,8 +20,6 @@ MySQL Workbench - For managing the database schema and running SQL queries.
 Streamlit - For building a simple web-based interface to interact with the database in real-time.
 Steps:
 Install MySQL Workbench and Streamlit:
-bash
-Copy code
 pip install streamlit
 Clone the repository and navigate to the project directory.
 Make sure to have Python installed and the necessary packages as mentioned in the requirements.txt file.
