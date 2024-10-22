@@ -78,14 +78,14 @@ The project includes a bonus task that adds a Streamlit-based web interface. To 
 
 This starts a web-based SQL query tool where users can input and run queries on the database. The results are displayed in the browser in real-time.
 
-Contribution
+### Contribution
 The project was a collaborative effort by:
-Deepthi D’Souza
-Sankalp Mehani
-Pritish Kamble
+1. Deepthi D’Souza
+2. Sankalp Mehani
+3. Pritish Kamble
 
-References
-DBMS Normalization Tutorial
-PostgreSQL Python Connection
-SQL Server Clustered Indexes
-SQL After Insert Triggers
+### References
+1. DBMS Normalization Tutorial
+2. PostgreSQL Python Connection
+3. SQL Server Clustered Indexes
+4. SQL After Insert Triggers
