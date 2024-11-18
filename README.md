@@ -79,6 +79,20 @@ The project includes a bonus task that adds a Streamlit-based web interface. To 
 
 This starts a web-based SQL query tool where users can input and run queries on the database. The results are displayed in the browser in real-time.
 
+### Results:
+Query 1
+![Alt text](result/query1.png)
+
+Query 2
+![Alt text](result/query2.png)
+
+Query 3
+![Alt text](result/query3.png)
+
+Query 4
+![Alt text](result/query4.png)
+
+
 ### Contribution
 The project was a collaborative effort by:
 1. Deepthi D’Souza
