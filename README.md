@@ -2,6 +2,9 @@
 ## Project Description
 This project contains a database of crimes in Buffalo, NY, spanning from 2020 to 2021. The goal is to enable detailed analysis of crime patterns in the city, allowing law enforcement agencies and other stakeholders to use a web-based system for accessing and analyzing crime data.
 
+![Alt text](result/UI.png)
+
+
 ### Table of Contents
 1. Installation
 2. Usage
